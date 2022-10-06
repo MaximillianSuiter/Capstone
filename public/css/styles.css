@@ -1,0 +1,59 @@
+p {
+    font-size:24px;
+    color: rgb(0, 2, 98);
+
+
+}
+
+h1 {
+    font-size:24px;
+    color:rgb(0,2,98);
+    font-weight: 300;
+    text-align: center;
+
+}
+
+h2 {
+    font-size:20px;
+    color:rgb(255, 255, 255);
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.card-header {
+    font-size:xx-large;
+    color:rgb(0, 2, 98);
+    text-align: center;
+    font-weight:500 ;
+}
+
+.navbar-brand {
+    font-size: 42px;
+    color: rgb(0, 111, 9);
+}
+
+.card{
+    width: 300px;
+}
+
+.card-body{
+    text-align:center;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 20px
+}
+
+.btn{
+    background:rgb(0, 2, 98);
+    color:rgb(255, 255, 255)
+    
+}
+
+.form-control{
+    text-align: center;
+}
+
+.card-status{
+    color: red;
+}
